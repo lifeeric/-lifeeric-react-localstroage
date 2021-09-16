@@ -1,0 +1,21 @@
+{
+  "name": "@lifeeric/react-localstroage",
+  "version": "1.0.3",
+  "description": "Synchronous localStorage package for NodeJs apps.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm publish --access public"
+  },
+  "author": "@lifeeric",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "keywords": [
+    "node-localStorage",
+    "react-localStorge",
+    "localStorage",
+    "Gatsby-localStorage"
+  ]
+}
